@@ -1,0 +1,27 @@
+_repo: Pathology-of-Lying-Accusation-and-Swindling-A-Study-in-Forensic-Psychology_449
+creator:
+  authors:
+  - agent_name: Healy, Mary Tenney
+    gutenberg_agent_id: '242'
+    url: http://www.gutenberg.org/2009/agents/242
+  - agent_name: Healy, William
+    birthdate: 1869
+    deathdate: 1963
+    gutenberg_agent_id: '241'
+    url: http://www.gutenberg.org/2009/agents/241
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swindlers and swindling'
+- !lcc 'BF'
+- !lcsh 'Criminal psychology'
+title: 'Pathology of Lying, Accusation, and Swindling: A Study in Forensic Psychology'
+url: http://www.gutenberg.org/ebooks/449
