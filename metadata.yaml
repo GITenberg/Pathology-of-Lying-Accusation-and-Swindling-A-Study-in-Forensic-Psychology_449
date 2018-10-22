@@ -1,5 +1,5 @@
 _repo: Pathology-of-Lying-Accusation-and-Swindling-A-Study-in-Forensic-Psychology_449
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Swindlers and swindling'
 - !lcc 'BF'
 - !lcsh 'Criminal psychology'
+- GITenberg
 title: 'Pathology of Lying, Accusation, and Swindling: A Study in Forensic Psychology'
 url: http://www.gutenberg.org/ebooks/449
